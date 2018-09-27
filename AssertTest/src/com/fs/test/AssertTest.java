@@ -10,5 +10,7 @@ public class AssertTest {
 		assert num > 150 : num = 150;
 		System.out.println(num);
 		System.out.println("断言后的代码");
+		// 文件被修改了
+		
 	}
 }
