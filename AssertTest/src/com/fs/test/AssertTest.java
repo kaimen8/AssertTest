@@ -1,5 +1,6 @@
 package com.fs.test;
 
+// 测试冲突 远程修改了文件
 public class AssertTest {
 	public static void main(String[] args) {
 		int num = 100;
