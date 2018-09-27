@@ -1,6 +1,6 @@
 package com.fs.test;
 
-// 测试冲突 远程修改了文件
+
 public class AssertTest {
 	public static void main(String[] args) {
 		int num = 100;
@@ -13,5 +13,6 @@ public class AssertTest {
 		System.out.println("断言后的代码");
 		// 文件被修改了
 		// 文件被第二次修改了
+		// 本地修改
 	}
 }
