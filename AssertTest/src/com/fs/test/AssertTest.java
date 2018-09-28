@@ -1,6 +1,6 @@
 package com.fs.test;
 
-// github中的注释
+// github中的注释aaa
 public class AssertTest {
 	public static void main(String[] args) {
 		int num = 100;
